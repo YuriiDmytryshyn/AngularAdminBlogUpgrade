@@ -1,0 +1,16 @@
+.card {
+    margin: 5px auto;
+    user-select: none;
+}
+
+.card-img-overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    user-select: none;
+}
+
+.button {
+    display: flex;
+    justify-content: space-between;
+}

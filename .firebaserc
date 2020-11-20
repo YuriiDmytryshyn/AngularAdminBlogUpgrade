@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "july-ca08d": {
+      "hosting": {
+        "AngularAdminBlogUpgrade": [
+          "july-ca08d"
+        ]
+      }
+    }
+  }
+}

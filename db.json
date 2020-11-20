@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Отримай 100 грн за реєстрацію в програмі лояльності Domino's Club!",
+      "text": "Зареєструйся за посиланням з 30.10. dominos.ua/lviv/promo/ та отримай 100 бонусів! Це цілих 100грн знижки, бо 1 бонус = 1 грн. Знижку можна використати одразу на наступне замовлення. Бонуси нараховуються після першого замовлення. ",
+      "image": "https://image.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-and-olives_140725-1200.jpg",
+      "date": "2020-11-19T14:45:23.155Z",
+      "author": "Petro Petriv",
+      "id": 2
+    },
+    {
+      "title": "Отримай 150 грн за реєстрацію в програмі лояльності Domino's Club!",
+      "text": "Зареєструйся за посиланням з 30.10. dominos.ua/lviv/promo/ та отримай 100 бонусів! Це цілих 100грн знижки, бо 1 бонус = 1 грн. Знижку можна використати одразу на наступне замовлення. Бонуси нараховуються після першого замовлення",
+      "image": "https://firebasestorage.googleapis.com/v0/b/july-ca08d.appspot.com/o/images%2FEq_it-na_pizza-margherita_sep2005_sml.jpg?alt=media&token=cfb734b3-2b12-4760-9d4a-ddab5c748ad6",
+      "date": "2020-11-20T10:18:18.106Z",
+      "author": "Ivan Ivanov",
+      "id": 3
+    },
+    {
+      "title": "Отримай 1 грн за реєстрацію в програмі лояльності Domino's Club!",
+      "text": "Зареєструйся за посиланням з 30.10. dominos.ua/lviv/promo/ та отримай 100 бонусів! Це цілих 100грн знижки, бо 1 бонус = 1 грн. Знижку можна використати одразу на наступне замовлення. Бонуси нараховуються після першого замовлення.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/july-ca08d.appspot.com/o/images%2F941112.jpg?alt=media&token=a2d7f9fc-6c59-47b2-9741-e8b020da25a1",
+      "date": "2020-11-20T11:31:16.975Z",
+      "author": "Admin",
+      "id": 4
+    }
+  ]
+}
